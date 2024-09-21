@@ -1,0 +1,6 @@
+Patient_ID,Age,Gender,Temperature,Symptoms,Preexisting_Conditions,Test_Result,Date_Sampled,City
+51,45,Male,37.3,"Fever,Cough,Shortness of breath",Diabetes,Positive,2023-12-21,New York
+52,55,Female,36.7,"Fever,Cough,Shortness of breath",Hypertension,Positive,2023-12-22,Los Angeles
+53,60,Male,37.0,"Cough,Shortness of breath",Asthma,Negative,2023-12-23,Chicago
+54,35,Female,37.2,"Fever,Cough,Shortness of breath",Obesity,Positive,2023-12-24,Houston
+55,50,Male,36.9,"Fever,Cough,Shortness of breath",Diabetes,Positive,2023-12-25,Phoenix
